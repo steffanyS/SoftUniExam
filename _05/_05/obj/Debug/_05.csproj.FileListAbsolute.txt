@@ -1,0 +1,6 @@
+E:\SoftUni\Exam\_05\_05\bin\Debug\_05.exe.config
+E:\SoftUni\Exam\_05\_05\bin\Debug\_05.exe
+E:\SoftUni\Exam\_05\_05\bin\Debug\_05.pdb
+E:\SoftUni\Exam\_05\_05\obj\Debug\_05.exe
+E:\SoftUni\Exam\_05\_05\obj\Debug\_05.pdb
+E:\SoftUni\Exam\_05\_05\obj\Debug\_05.csprojResolveAssemblyReference.cache

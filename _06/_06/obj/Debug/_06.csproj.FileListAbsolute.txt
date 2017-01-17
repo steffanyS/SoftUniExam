@@ -1,0 +1,5 @@
+E:\SoftUni\Exam\_06\_06\bin\Debug\_06.exe.config
+E:\SoftUni\Exam\_06\_06\bin\Debug\_06.exe
+E:\SoftUni\Exam\_06\_06\bin\Debug\_06.pdb
+E:\SoftUni\Exam\_06\_06\obj\Debug\_06.exe
+E:\SoftUni\Exam\_06\_06\obj\Debug\_06.pdb
